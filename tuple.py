@@ -34,6 +34,7 @@ print(t4[2][1])
 print(type(t4))
 print(type(list))
 
-
-
-
+l =[1]
+t = tuple(l)
+print(t)
+print(type(t))
