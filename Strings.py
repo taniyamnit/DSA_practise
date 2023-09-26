@@ -8,3 +8,4 @@ print(String[0])
 # Printing Last character
 print("\nLast character of String is: ")
 print(String[-1])
+
